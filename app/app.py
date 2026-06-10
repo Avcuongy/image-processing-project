@@ -30,7 +30,6 @@ def create_face_mask(shape=(250, 250)):
     mask = np.power(mask, 1.5)
     return mask
 
-
 def apply_advanced_preprocessing(gray_crop, mask, target_size=(250, 250)):
     face_resized = cv2.resize(gray_crop, target_size)
     face_denoised = cv2.bilateralFilter(face_resized, d=9, sigmaColor=75, sigmaSpace=75)
