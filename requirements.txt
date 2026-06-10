@@ -1,0 +1,16 @@
+opencv-contrib-python
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-image
+Pillow
+tqdm
+joblib
+streamlit
+kaggle
+jupyter
+ipykernel
+kagglehub
+cmake
