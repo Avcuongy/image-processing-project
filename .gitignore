@@ -260,4 +260,4 @@ dataset_face_detection/
 dataset/
 
 # models
-lbph_model.yml
+model/
