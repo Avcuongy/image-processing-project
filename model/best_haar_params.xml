@@ -1,2 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<HaarCascadeBestParams><scale_factor>1.1</scale_factor><min_neighbors>5</min_neighbors><min_size><width>30</width><height>30</height></min_size><gamma>1.0</gamma><clahe_clip_limit>2.0</clahe_clip_limit><clahe_tile_grid_size>8,8</clahe_tile_grid_size><iou_threshold>0.5</iou_threshold></HaarCascadeBestParams>
